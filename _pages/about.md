@@ -14,4 +14,6 @@ Currently, I am very fortunate to be advised by [Prof. Hao Huang](https://www.me
 
 You can find my CV here: [Wentao Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Wechat](../images/wechat.png)
+Social media: [Wechat](../images/wechat.png) / [LinkedIn](http://www.linkedin.com/in/wentao-wu-19125826b)
+
+Web pages "Publications, Talks, Teaching, Portfolio, Blog Posts" are under development, stay tuned!
