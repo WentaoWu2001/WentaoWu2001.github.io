@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.E. in Nanjing, Southeast University(SEU), 2023
-* M.S.E. in Philadelphia, University of Pennsylvania(UPENN), 2025(expected)
+* B.E. in Nanjing, Southeast University (SEU), 2023
+* M.S.E. in Philadelphia, University of Pennsylvania (UPENN), 2025 (expected)
 
 Selected research experience
 ======
 * Nov. 2022 – June. 2023
-* Research on treatment efficacy in patients with Parkinson's disease using resting state fMRI brain network connectivity(Bachelor's Degree Thesis)
+* Research on treatment efficacy in patients with Parkinson's disease using resting state fMRI brain network connectivity (Bachelor's Degree Thesis)
   * Southeast University, Nanjing, CHN
   * Advisor: Prof. Yu Sun.
 
