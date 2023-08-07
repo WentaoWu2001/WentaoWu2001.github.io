@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wentao Wu / Personal Homepage"
+title                    : "Wentao Wu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wentao Wu"
 description              : &description "A BME master's student focusing on neuroimaging(different MRI modalities)"
