@@ -14,4 +14,4 @@ Currently, I am very fortunate to be advised by [Prof. Hao Huang](https://www.me
 
 You can find my CV here: [Wentao Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:wentaowu@seas.upenn.edu) / [Github](https://github.com/WentaoWu-neuroimaging) / [Wechat](../images/wechat.jpg) /
+[Wechat](../images/wechat.png)
