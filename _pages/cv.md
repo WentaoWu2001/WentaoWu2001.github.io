@@ -17,22 +17,22 @@ Education
 Selected research experience
 ======
 * Nov. 2022 – June. 2023
-* Research on treatment efficacy in patients with Parkinson's disease using resting state fMRI brain network connectivity (Bachelor's Degree Thesis)
+  * Research on treatment efficacy in patients with Parkinson's disease using resting state fMRI brain network connectivity (Bachelor's Degree Thesis)
   * Southeast University, Nanjing, CHN
   * Advisor: Prof. Yu Sun.
 
 * Sep. 2022 – Mar. 2023
-* Atypical functional gradient of cerebellum in autism and its association with genetic profiles
+  * Atypical functional gradient of cerebellum in autism and its association with genetic profiles
   * Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, CHN
   * Advisor: Dr. Yafeng Zhan & Prof. Cirong Liu
 
 * Feb. 2022 – May. 2022
-* Application of Advanced Sequences of Magnetic Resonance in the Classification and Segmentation of Brain Tumors in Children as an Aid to Diagnosis
+  * Application of Advanced Sequences of Magnetic Resonance in the Classification and Segmentation of Brain Tumors in Children as an Aid to Diagnosis
   * Southeast University, Nanjing, CHN
   * Advisor: Prof. Yu Sun
     
 * Apr. 2022 – Jun. 2022
-* Modulation of Neural and Physiological Signals by Soothing Music
+  * Modulation of Neural and Physiological Signals by Soothing Music
   * Southeast University, Nanjing, CHN
   * Advisor: Prof. Xingran Cui
 
