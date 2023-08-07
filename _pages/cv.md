@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Nanjing, Southeast University(SEU), 2023
-* M.S.E in Philadelphia, University of Pennsylvania(UPENN), 2025(expected)
+* M.S.E. in Philadelphia, University of Pennsylvania(UPENN), 2025(expected)
 
 Selected research experience
 ======
@@ -38,7 +38,7 @@ Selected research experience
 
 Skills
 ======
-* Medical image analysis(MRI,EEG,ECG)
+* Medical image analysis
 * C++, MATLAB, Python, LaTeX, LabVIEW, ANTs, ITK-SNAP, Mango, PsychoPy, Multisim, Quartus II, Photoshop
   
 Extracurricular activity
