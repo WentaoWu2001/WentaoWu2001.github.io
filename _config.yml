@@ -11,9 +11,9 @@ title                    : "Wentao Wu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wentao Wu"
 description              : &description "A BME master's student interested in neuroimaging"
-url                      : https://WentaoWu-neuroimaging.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://WentaoWu2001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WentaoWu-neuroimaging/WentaoWu-neuroimaging.github.io"
+repository               : "WentaoWu2001/WentaoWu2001.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wentao Wu"
   avatar           : "wentaowu.png"
-  bio              : "A BME master's student interested in neuroimaging"
+  bio              : "A BME master's student interested in neuroimage analysis"
   location         : "USA, Pennsylvania, Philadelphia"
   employer         : "UPENN"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WentaoWu-neuroimaging"
+  github           : "WentaoWu2001"
   google_plus      :
   keybase          :
   instagram        :
