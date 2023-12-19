@@ -19,12 +19,12 @@ Research experience
 *Master*
 * Nov. 2023 – Dec. 2023
   * Brain functional network changes and their correlations to neurodevelopment and genotypes in CHD
-  * University of Pennsylvania & The Children's Hospital of Philadelphia, Philadelphia, USA
+  * University of Pennsylvania & Children's Hospital of Philadelphia, Philadelphia, USA
   * Advisor: Dr. Minhui Ouyang.
     
 * Oct. 2023 – Nov. 2023
   * Differential myelination maturation across cortical regions and white matter tracts during infancy
-  * University of Pennsylvania & The Children's Hospital of Philadelphia, Philadelphia, USA
+  * University of Pennsylvania & Children's Hospital of Philadelphia, Philadelphia, USA
   * Advisor: Dr. Hao Huang & Dr. Minhui Ouyang.
     
 *Undergraduate*
