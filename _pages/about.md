@@ -16,5 +16,3 @@ You can find my latest CV here: [Wentao Wu's Curriculum Vitae](../assets/Curricu
 The web page "CV" contains my less detailed but more complete research experience.
 
 Social media: [Wechat](../images/wechat.png) / [LinkedIn](http://www.linkedin.com/in/wentao-wu-19125826b)
-
-Web pages "Publications, Talks, Teaching, Portfolio, Blog Posts" are under development, stay tuned!
