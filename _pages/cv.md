@@ -16,15 +16,15 @@ Education
 
 Publications
 ======
-[1]. Ruolin Li†, **Wentao Wu†**, Sovesh Mohapatra, Kay L Sindabizera, Ziqin Zhang, Cheng En Lee, Minhui Ouyang, and Hao Huang, ‘Differential myelination maturation across cortical regions and white matter tracts during infancy’, International Society of Magnetic Resonance in Medicine (ISMRM, 2024), *selected for in-person Oral Power Pitch*.
-[2]. Cheng En Lee†, Kay Laura Sindabizera†, Ruolin Li, **Wentao Wu**, Minhui Ouyang, and Hao Huang, ‘Impact of socioeconomic status and parental stress on infant regional brain development’, International Society of Magnetic Resonance in Medicine (ISMRM, 2024)
+*[1]. Ruolin Li†, **Wentao Wu†**, Sovesh Mohapatra, Kay L Sindabizera, Ziqin Zhang, Cheng En Lee, Minhui Ouyang, and Hao Huang, ‘Differential myelination maturation across cortical regions and white matter tracts during infancy’, International Society of Magnetic Resonance in Medicine (ISMRM, 2024), *selected for in-person Oral Power Pitch*.
+*[2]. Cheng En Lee†, Kay Laura Sindabizera†, Ruolin Li, **Wentao Wu**, Minhui Ouyang, and Hao Huang, ‘Impact of socioeconomic status and parental stress on infant regional brain development’, International Society of Magnetic Resonance in Medicine (ISMRM, 2024)
 
 Honors & Awards
 ======
-Oral Plenary Session Presenter at the 49th Annual Pendergrass Symposium (Penn Radiology) (TOP 10%), Jun. 2024
-Professional Core Course Scholarship (TOP 5%), Oct. 2021 & Oct. 2022
-2022 Merit Student of the Southeast University (10/120), Sep. 2022
-Third Prize in the Jiangsu Province Biomedical Engineering Competition, May. 2022  
+*Oral Plenary Session Presenter at the 49th Annual Pendergrass Symposium (Penn Radiology) (TOP 10%), Jun. 2024
+*Professional Core Course Scholarship (TOP 5%), Oct. 2021 & Oct. 2022
+*2022 Merit Student of the Southeast University (10/120), Sep. 2022
+*Third Prize in the Jiangsu Province Biomedical Engineering Competition, May. 2022  
 
 Research experience
 ======
