@@ -24,7 +24,19 @@ Honors & Awards
 * Oral Plenary Session Presenter at the 49th Annual Pendergrass Symposium (Penn Radiology) (TOP 10%), Jun. 2024
 * Professional Core Course Scholarship (TOP 5%), Oct. 2021 & Oct. 2022
 * 2022 Merit Student of the Southeast University (10/120), Sep. 2022
-* Third Prize in the Jiangsu Province Biomedical Engineering Competition, May. 2022  
+* Third Prize in the Jiangsu Province Biomedical Engineering Competition, May. 2022
+
+Professional experience
+======
+* **Laboratory for Neural MRI and Brain Connectivity @ CHOP and Penn**, Philadelphia, PA, USA
+  * Student Researcher, Advisor: Dr. Hao Huang & Dr. Minhui Ouyang
+  * Sep. 2023 – Present
+* **Institute of Neuroscience, Chinese Academy of Sciences - Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences (Translational Brain Imaging Research Group) (Remote)**, Shanghai, CHN
+  * Student Researcher, Advisor: Dr. Cirong Liu   							               
+  * Jul. 2022 – Mar. 2023
+* **International Pediatric Medical Imaging Research Laboratory @ SEU**, Nanjing, Jiangsu, CHN
+  * Student Researcher, Advisor: Dr. Yu Sun         							              
+  * Feb. 2022 – Jun. 2023
 
 Research experience
 ======
