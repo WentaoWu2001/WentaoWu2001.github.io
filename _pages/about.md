@@ -12,7 +12,6 @@ I'm a Second-year Bioengineering master's student from [School of Engineering an
 
 Currently, I am very fortunate to be mentored by [Dr. Hao Huang](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8837947) and [Dr. Minhui Ouyang](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8844108) of [Laboratory for Neural MRI and Brain Connectivity @ CHOP and Penn](https://www.med.upenn.edu/huanglab/).
 
-You can find my latest CV here: [Wentao Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-The web page "CV" contains my less detailed but more complete research experience.
+Please see the web page "CV" for more information about me.
 
 Social media: [X/Twitter](https://x.com/wentao_wu2001) / [Wechat](../images/wechat.png) / [LinkedIn](http://www.linkedin.com/in/wentao-wu-19125826b)
