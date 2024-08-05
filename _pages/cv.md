@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S.E. in Bioengineering -- Philadelphia, University of Pennsylvania (UPENN), 2025 (expected)
+* M.S.E. in Bioengineering -- Philadelphia, University of Pennsylvania (UPenn), 2025 (expected)
 * B.E. in Biomedical Engineering -- Nanjing, Southeast University (SEU), 2023
 
 Publications
