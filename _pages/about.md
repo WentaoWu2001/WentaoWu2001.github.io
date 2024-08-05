@@ -15,4 +15,4 @@ Currently, I am very fortunate to be mentored by [Dr. Hao Huang](https://www.med
 You can find my latest CV here: [Wentao Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 The web page "CV" contains my less detailed but more complete research experience.
 
-Social media: [Wechat](../images/wechat.png) / [LinkedIn](http://www.linkedin.com/in/wentao-wu-19125826b)
+Social media: [X/Twitter](https://x.com/wentao_wu2001) / [Wechat](../images/wechat.png) / [LinkedIn](http://www.linkedin.com/in/wentao-wu-19125826b)
