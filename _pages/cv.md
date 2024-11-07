@@ -16,8 +16,12 @@ Education
 
 Publications
 ======
-* [1]. Ruolin Li†, **Wentao Wu†**, Sovesh Mohapatra, Kay L Sindabizera, Ziqin Zhang, Cheng En Lee, Minhui Ouyang, and Hao Huang, ‘Differential myelination maturation across cortical regions and white matter tracts during infancy’, International Society of Magnetic Resonance in Medicine (ISMRM, 2024), *selected for in-person Oral Power Pitch*.
-* [2]. Cheng En Lee†, Kay Laura Sindabizera†, Ruolin Li, **Wentao Wu**, Minhui Ouyang, and Hao Huang, ‘Impact of socioeconomic status and parental stress on infant regional brain development’, International Society of Magnetic Resonance in Medicine (ISMRM, 2024)
+* [1]. Wentao Wu. et al. Added value of perfusion MRI in neonatal arterial ischemic stroke for delineation of biomarker and prediction of remote seizure, submitted to ISMRM’25.
+* [2]. Sovesh Mohapatra†, Wentao Wu†. et al. Accurate prediction of 2-year-old neurodevelopmental outcomes in mild HIE with neonatal white matter microstructure, submitted to ISMRM’25, co-first author.
+* [3]. Ruolin Li, …, Wentao Wu. et al. Comprehensive Multi-Modal MRI Templates of the Infant Brain: A Foundational Resource for Early Developing Brain Studies, submitted to ISMRM’25.
+* [4]. Ruolin Li†, Wentao Wu†. et al. Differential myelination maturation across cortical regions and white matter tracts during infancy, ISMRM’24, selected for in-person Oral Power Pitch, co-first author.
+* [5]. Cheng En Lee, …, Wentao Wu. et al. Impact of socioeconomic status and parental stress on infant regional brain development, ISMRM’24.
+
 
 Honors & Awards
 ======
@@ -42,14 +46,14 @@ Research experience
 ======
 *Master*
 * Jun. 2024 – Present
-  * Diffusion and Arterial spin labeling (ASL) MRI for prediction of outcomes in Neonate Stroke Patients
+  * Added value of perfusion MRI in neonatal arterial ischemic stroke for delineation of biomarker and prediction of remote seizure
   * University of Pennsylvania & Children's Hospital of Philadelphia, Philadelphia, USA
-  * Advisor: Dr. Minhui Ouyang.
+  * Advisor: Dr. Minhui Ouyang & Dr. Hao Huang.
 
 * Mar. 2024 – Present
-  * Prediction of two-year neurodevelopmental outcome of hypoxic-ischemic encephalopathy (HIE) infants based on brain white matter (WM) microstructure
+  * Accurate prediction of 2-year-old neurodevelopmental outcomes in mild hypoxic-ischemic encephalopathy (HIE) with neonatal white matter microstructure
   * University of Pennsylvania & Children's Hospital of Philadelphia, Philadelphia, USA
-  * Advisor: Dr. Hao Huang & Dr. Minhui Ouyang.
+  * Advisor: Dr. Minhui Ouyang & Dr. Hao Huang.
 
 * Nov. 2023 – Dec. 2023
   * Brain functional network changes and their correlations to neurodevelopment and genotypes in CHD
