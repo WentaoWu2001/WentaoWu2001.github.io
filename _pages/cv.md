@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.S.E. in Bioengineering -- Philadelphia, University of Pennsylvania (UPenn), 2025 (expected)
+* Ph.D. in Bioengineering -- Philadelphia, University of Pennsylvania (UPenn), 2030 (expected)
+* M.S.E. in Bioengineering -- Philadelphia, University of Pennsylvania (UPenn), 2025
 * B.E. in Biomedical Engineering -- Nanjing, Southeast University (SEU), 2023
 
 Publications
 ======
-* [1]. Wentao Wu. et al. Added value of perfusion MRI in neonatal arterial ischemic stroke for delineation of biomarker and prediction of remote seizure, submitted to ISMRM’25.
-* [2]. Sovesh Mohapatra†, Wentao Wu†. et al. Accurate prediction of 2-year-old neurodevelopmental outcomes in mild HIE with neonatal white matter microstructure, submitted to ISMRM’25, co-first author.
-* [3]. Ruolin Li, …, Wentao Wu. et al. Comprehensive Multi-Modal MRI Templates of the Infant Brain: A Foundational Resource for Early Developing Brain Studies, submitted to ISMRM’25.
+* [1]. Wentao Wu. et al. Added value of perfusion MRI in neonatal arterial ischemic stroke for delineation of biomarker and prediction of remote seizure, ISMRM’25, selected for in-person Oral Power Pitch.
+* [2]. Sovesh Mohapatra†, Wentao Wu†. et al. Accurate prediction of 2-year-old neurodevelopmental outcomes in mild HIE with neonatal white matter microstructure, ISMRM’25, selected for in-person Oral presentation, co-first author.
+* [3]. Ruolin Li, …, Wentao Wu. et al. Comprehensive Multi-Modal MRI Templates of the Infant Brain: A Foundational Resource for Early Developing Brain Studies, ISMRM’25.
 * [4]. Ruolin Li†, Wentao Wu†. et al. Differential myelination maturation across cortical regions and white matter tracts during infancy, ISMRM’24, selected for in-person Oral Power Pitch, co-first author.
 * [5]. Cheng En Lee, …, Wentao Wu. et al. Impact of socioeconomic status and parental stress on infant regional brain development, ISMRM’24.
 
@@ -32,7 +33,7 @@ Honors & Awards
 
 Professional experience
 ======
-* **Laboratory for Neural MRI and Brain Connectivity @ CHOP and Penn**, Philadelphia, PA, USA
+* **Laboratory for Intelligent Neuroimaging and Brain Connectivity (LINBC) @ CHOP and Penn**, Philadelphia, PA, USA
   * Student Researcher, Advisor: Dr. Hao Huang & Dr. Minhui Ouyang
   * Sep. 2023 – Present
 * **Institute of Neuroscience, Chinese Academy of Sciences - Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences (Translational Brain Imaging Research Group) (Remote)**, Shanghai, CHN
@@ -44,7 +45,7 @@ Professional experience
 
 Research experience
 ======
-*Master*
+*Graduate*
 * Jun. 2024 – Present
   * Added value of perfusion MRI in neonatal arterial ischemic stroke for delineation of biomarker and prediction of remote seizure
   * University of Pennsylvania & Children's Hospital of Philadelphia, Philadelphia, USA
@@ -99,7 +100,7 @@ Research experience
 
 Skills
 ======
-* Medical Image Processing and Analysis: Diffusion MRI, ASL MRI, Structural MRI, BOLD functional MRI, EEG
+* Medical Image Acquisition, Processing and Analysis: Diffusion MRI, ASL perfusion MRI, Structural MRI, BOLD functional MRI, EEG
 * Languages: Chinese (Native), English (Proficient)
 * Computer: Python, MATLAB, R, C++, Linux, DTI-Studio, FSL, ITK-SNAP, Microsoft Excel/Word/PowerPoint, Photoshop, LaTeX
 
