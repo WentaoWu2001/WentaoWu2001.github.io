@@ -26,6 +26,7 @@ Publications
 
 Honors & Awards
 ======
+* Spring 2025 GAPSA Professional Student Travel Grant, Apr. 2025
 * Oral Plenary Session Presenter at the 49th Annual Pendergrass Symposium (Penn Radiology) (TOP 10%), Jun. 2024
 * Professional Core Course Scholarship (TOP 5%), Oct. 2021 & Oct. 2022
 * 2022 Merit Student of the Southeast University (10/120), Sep. 2022
