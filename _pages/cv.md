@@ -20,6 +20,7 @@ Selected Publications
 Journal articles:
 * [1] Wu W, Huang H, Zhu T, Tan S, Ouyang M. Developmental human brain connectome from fetal stage to early childhood. Dev Cogn Neurosci. 2026 Jun;79:101704. doi: 10.1016/j.dcn.2026.101704. Epub 2026 Mar 6. PMID: 41807894; PMCID: PMC12993216.
 * [2] Wang J, Peng Q, Ouyang M, Li R, Wu W, Zhang L, Peng Y, Huang H. Functional changes of precuneus architecture across newborns, infants, and early adolescents. Scientific Reports. 2026 Feb;16(1):11094. DOI: 10.1038/s41598-026-40813-y. PMID: 41748807; PMCID: PMC13043723.
+
 Conference Proceedings:
 * [1] Wentao Wu. et al. Charting brain physiological asymmetry during childhood with high-resolution pCASL perfusion MRI, International Society for Magnetic Resonance in Medicine (ISMRM)’26, selected for in-person Oral Power Pitch.
 * [2] Wentao Wu. et al. Heterogeneous increase in regional arterial transit time and artery border zone emergence in childhood with multi-PLD pCASL, ISMRM’26.
