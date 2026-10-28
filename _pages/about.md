@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Bioengineering PhD student from [School of Engineering and Applied Science](https://www.seas.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). My research interests include studying typical/atypical early brain development using multimodal MRI, and the acquisition and analysis of ASL perfusion MRI.
+I'm a second-year Bioengineering PhD student from [School of Engineering and Applied Science](https://www.seas.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). My research interests include studying typical/atypical early brain development using multimodal MRI, and the acquisition and analysis of ASL perfusion MRI.
 
 Currently, I am very fortunate to be mentored by [Dr. Hao Huang](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8837947) and [Dr. Minhui Ouyang](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8844108) of [Laboratory for Intelligent Neuroimaging and Brain Connectivity (LINBC) @ CHOP and Penn](https://www.med.upenn.edu/huanglab/).
 
